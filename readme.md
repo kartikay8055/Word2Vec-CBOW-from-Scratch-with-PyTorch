@@ -24,8 +24,8 @@ The CBOW model consists of:
 - Training and validation loss graphs are plotted for performance analysis.
 
 ## Plot
-Upload your training and validation loss plot image (e.g., `training_validation_loss_w2v.png`) to the project folder and update the image path below:
-![Training & Validation Loss](./training_validation_loss_w2v.png)
+![plot](https://github.com/user-attachments/assets/d6978d3e-c832-4dc6-92a1-8c7c7b70d109)
+
 
 ## Cosine Similarity Evaluation
 After training, the model evaluates the similarity between word embeddings:
